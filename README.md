@@ -1,4 +1,4 @@
-# # Praktikum 7
+# # Praktikum 6
 
 - Menampilkan data karyawan yang bekerja pada departemen yang sama dengan karyawan yang bernama dika 
 
